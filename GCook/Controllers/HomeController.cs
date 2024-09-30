@@ -12,10 +12,7 @@ public class HomeController : Controller
     private readonly ILogger<HomeController> _logger;
     private readonly AppDbContext _context;
 
-    public HomeController(
-        ILogger<HomeController> logger,
-        AppDbContext context
-    )
+    public HomeController(ILogger<HomeController> logger, AppDbContext context)
     {
         _logger = logger;
         _context = context;
@@ -23,16 +20,13 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        HomeVM home = new()
-        {
+        HomeVM home = new() {
             Categorias = _context.Categorias
                 .Where(c => c.ExibirHome)
-                .AsNoTracking()
                 .ToList(),
             Receitas = _context.Receitas
                 .Include(r => r.Categoria)
                 .Include(r => r.Ingredientes)
-                .AsNoTracking()
                 .ToList()
         };
         return View(home);
@@ -43,8 +37,7 @@ public class HomeController : Controller
         Receita receita = _context.Receitas
             .Include(r => r.Categoria)
             .Include(r => r.Ingredientes)
-            .ThenInclude(ri => ri.Ingrediente)
-            .AsNoTracking()
+            .ThenInclude(i => i.Ingrediente)
             .FirstOrDefault(r => r.Id == id);
         return View(receita);
     }

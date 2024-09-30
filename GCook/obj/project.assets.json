@@ -2480,19 +2480,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jose.gallo\\.nuget\\packages\\": {}
+    "C:\\Users\\etec\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\jose.gallo\\Desktop\\GCook\\GCook\\GCook.csproj",
+      "projectUniqueName": "c:\\Users\\etec\\Desktop\\GCook\\GCook\\GCook.csproj",
       "projectName": "GCook",
-      "projectPath": "c:\\Users\\jose.gallo\\Desktop\\GCook\\GCook\\GCook.csproj",
-      "packagesPath": "C:\\Users\\jose.gallo\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\jose.gallo\\Desktop\\GCook\\GCook\\obj\\",
+      "projectPath": "c:\\Users\\etec\\Desktop\\GCook\\GCook\\GCook.csproj",
+      "packagesPath": "C:\\Users\\etec\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\etec\\Desktop\\GCook\\GCook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jose.gallo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\etec\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

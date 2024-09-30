@@ -9,51 +9,87 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GCook
 build_property.RootNamespace = GCook
-build_property.ProjectDir = c:\Users\etec\Desktop\Gcook\GCook\
+build_property.ProjectDir = c:\Users\etec\Gcook\GCook\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\etec\Desktop\Gcook\GCook
+build_property.MSBuildProjectDirectory = c:\Users\etec\Gcook\GCook
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/etec/Desktop/Gcook/GCook/Views/Home/Index.cshtml]
+[c:/Users/etec/Gcook/GCook/Views/Account/ConfirmarEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb25maXJtYXJFbWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/etec/Gcook/GCook/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/etec/Gcook/GCook/Views/Account/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Ryby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/etec/Gcook/GCook/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/etec/Gcook/GCook/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/etec/Desktop/Gcook/GCook/Views/Home/Privacy.cshtml]
+[c:/Users/etec/Gcook/GCook/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/etec/Desktop/Gcook/GCook/Views/Home/Receita.cshtml]
+[c:/Users/etec/Gcook/GCook/Views/Home/Receita.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWNlaXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/etec/Desktop/Gcook/GCook/Views/Shared/Error.cshtml]
+[c:/Users/etec/Gcook/GCook/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/etec/Desktop/Gcook/GCook/Views/Shared/_Layout.cshtml]
+[c:/Users/etec/Gcook/GCook/Views/Shared/Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/etec/Gcook/GCook/Views/Shared/LayoutAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dEFjY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/etec/Gcook/GCook/Views/Shared/LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dEFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/etec/Gcook/GCook/Views/Shared/Loginpartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExvZ2lucGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/etec/Gcook/GCook/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/etec/Desktop/Gcook/GCook/Views/Shared/_LayoutAccount.cshtml]
+[c:/Users/etec/Gcook/GCook/Views/Shared/_LayoutAccount.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBY2NvdW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/etec/Desktop/Gcook/GCook/Views/Shared/_LayoutAdmin.cshtml]
+[c:/Users/etec/Gcook/GCook/Views/Shared/_LayoutAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/etec/Desktop/Gcook/GCook/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/etec/Gcook/GCook/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/etec/Gcook/GCook/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/etec/Desktop/Gcook/GCook/Views/_ViewImports.cshtml]
+[c:/Users/etec/Gcook/GCook/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/etec/Desktop/Gcook/GCook/Views/_ViewStart.cshtml]
+[c:/Users/etec/Gcook/GCook/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
