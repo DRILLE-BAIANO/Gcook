@@ -2485,11 +2485,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\etec\\Desktop\\GCook\\GCook\\GCook.csproj",
+      "projectUniqueName": "C:\\Users\\etec\\Gcook\\GCook\\GCook.csproj",
       "projectName": "GCook",
-      "projectPath": "c:\\Users\\etec\\Desktop\\GCook\\GCook\\GCook.csproj",
+      "projectPath": "C:\\Users\\etec\\Gcook\\GCook\\GCook.csproj",
       "packagesPath": "C:\\Users\\etec\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\etec\\Desktop\\GCook\\GCook\\obj\\",
+      "outputPath": "C:\\Users\\etec\\Gcook\\GCook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\etec\\AppData\\Roaming\\NuGet\\NuGet.Config",
