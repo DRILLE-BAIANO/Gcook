@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wKgyDKwNZJiAADHrIRqk3UKz3HsOtb0OvkhiTtLLOocqTGLXmt+vUdmCtzI5X74hv/wd6WnI7D6qoq3M7V61RQ==",
+  "dgSpecHash": "OtK8be1yKdnLNG1GgbBkU4CYBo7+TrqmX60AZMd+Uiojz6p2mvJ6gRYFa7wSovWtl8F2BnRp1bVlAhtZPsLZSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\etec\\Desktop\\Gcook\\GCook\\GCook.csproj",
+  "projectFilePath": "C:\\Users\\etec\\Gcook-1\\GCook\\GCook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etec\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\etec\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,5 +1,5 @@
-git config --global user.name GalloJunior
-git config --global user.email gallojunior@gmail.com
+git config --global user.name DRILLE-BAIANO
+git config --global user.email duduzimhard@gmail.com
 
 dotnet new mvc -o GCook
 
@@ -18,7 +18,7 @@ Pacotes a instalar
     Microsoft.EntityFrameworkCore.SqlServer
 
 Gerar Controller e Views de CRUD:
-    dotnet-aspnet-codegenerator controller -name CategoriasController -m Categoria -dc AppDbContext -outDir Controllers -l "~/Views/Shared/_LayoutAdmin.cshtml
+    dotnet-aspnet-codegenerator controller -name ReceitasController -m Receita -dc AppDbContext -outDir Controllers -l "~/Views/Shared/_LayoutAdmin.cshtml
 
 
 

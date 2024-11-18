@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\etec\\Desktop\\Gcook\\GCook\\GCook.csproj": {}
+    "C:\\Users\\etec\\Gcook-1\\GCook\\GCook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\etec\\Desktop\\Gcook\\GCook\\GCook.csproj": {
+    "C:\\Users\\etec\\Gcook-1\\GCook\\GCook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\etec\\Desktop\\Gcook\\GCook\\GCook.csproj",
+        "projectUniqueName": "C:\\Users\\etec\\Gcook-1\\GCook\\GCook.csproj",
         "projectName": "GCook",
-        "projectPath": "C:\\Users\\etec\\Desktop\\Gcook\\GCook\\GCook.csproj",
+        "projectPath": "C:\\Users\\etec\\Gcook-1\\GCook\\GCook.csproj",
         "packagesPath": "C:\\Users\\etec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\etec\\Desktop\\Gcook\\GCook\\obj\\",
+        "outputPath": "C:\\Users\\etec\\Gcook-1\\GCook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\etec\\AppData\\Roaming\\NuGet\\NuGet.Config",
