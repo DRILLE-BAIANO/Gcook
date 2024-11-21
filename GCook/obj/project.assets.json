@@ -7973,11 +7973,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\etec\\Gcook-1\\GCook\\GCook.csproj",
+      "projectUniqueName": "C:\\Users\\etec\\Desktop\\Gcook\\Gcook\\GCook\\GCook.csproj",
       "projectName": "GCook",
-      "projectPath": "C:\\Users\\etec\\Gcook-1\\GCook\\GCook.csproj",
+      "projectPath": "C:\\Users\\etec\\Desktop\\Gcook\\Gcook\\GCook\\GCook.csproj",
       "packagesPath": "C:\\Users\\etec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\etec\\Gcook-1\\GCook\\obj\\",
+      "outputPath": "C:\\Users\\etec\\Desktop\\Gcook\\Gcook\\GCook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\etec\\AppData\\Roaming\\NuGet\\NuGet.Config",

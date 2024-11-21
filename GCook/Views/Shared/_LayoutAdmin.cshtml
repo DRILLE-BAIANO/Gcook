@@ -41,7 +41,7 @@
                             </a>
                         </li>
                         <li class='nav-item py-1 @(ViewData["Title"] == "Receitas" ? "bg-dark rounded-end-5" : "")'>
-                            <a class='nav-link fs-6 @(ViewData["Title"] == "Receitas" ? "text-white" : "")' href="#">
+                            <a class='nav-link fs-6 @(ViewData["Title"] == "Receitas" ? "text-white" : "")' asp-action="Index" asp-controller="Receitas">
                                 <i class="bi bi-file-text-fill fs-5"></i>
                                 Receitas
                             </a>

@@ -13,6 +13,7 @@ namespace GCook.Controllers
     public class ReceitasController : Controller
     {
         private readonly AppDbContext _context;
+        private readonly IWebHostEnvironment _host;
 
         public ReceitasController(AppDbContext context)
         {
